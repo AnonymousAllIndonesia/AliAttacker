@@ -155,7 +155,7 @@ echo $ungu" 64) install MX-Tools"
 echo $green" 65) Tentang Rafli"
 echo  $red" 0) Exit "
 echo  $white""
-read -p "[root@MRCL4Y]> " bos;
+read -p "[root@MRKINTIL]> " bos;
 if [ $bos = 1 ] || [ $bos = 1 ]
 then
 clear
